@@ -1,0 +1,5 @@
+bip-utils==2.9.3
+eth-account==0.13.4
+pandas==2.2.3
+solders==0.23.0
+web3==7.6.1
